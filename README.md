@@ -1,8 +1,4 @@
-Edited readme file
-
-
-
-
+Created google homepage clone for The Odin Project. 
 
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
